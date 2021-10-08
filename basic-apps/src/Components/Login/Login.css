@@ -1,0 +1,26 @@
+@media all and (min-width: 480px) {
+    .LoginForm {
+     
+      padding: 60px 0;
+      background-color: rgb(176, 203, 245);
+      width: 50%;
+      color: black;
+      border-radius: 10px;
+    }
+  
+}
+.Log-header {
+    background-image: url('../../Assets/log3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+.LoginForm h4 {
+  margin-top: 1%;
+}

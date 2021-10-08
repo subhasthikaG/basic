@@ -1,0 +1,24 @@
+.Home {
+  text-align: center;
+  background-color: "Purple";
+}
+
+.Home-header {
+  background-image: url("../../Assets/home1.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Home p {
+  justify-content: right;
+  align-items: right;
+  margin-top: 1%;
+  margin-bottom: 250%;
+}
